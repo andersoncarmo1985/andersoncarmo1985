@@ -18,6 +18,3 @@
 <img align="center" alt="Carmo-Csharp" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
 
-<div>
-<img align="center" alt="Carmo-Facebook" heigth="200" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>  
-</div>
