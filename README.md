@@ -8,5 +8,5 @@
 <div>
   <a href="https://github.com/andersoncarmo1985">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=andersoncarmo1985&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncarmo1985&layout-compact&langs_count=16&theme-dracula"/> 
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncarmo1985&layout-compact&langs_count=16&theme-dracula"/> 
 </div>
