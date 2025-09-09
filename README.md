@@ -19,5 +19,5 @@
 </div>
 
 <div>
-<img align="center" alt="Carmo-Facebook" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>  
+<img align="center" alt="Carmo-Facebook" heigth="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>  
 </div>
